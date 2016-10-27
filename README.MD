@@ -3,6 +3,9 @@
 **Ida Pro Paint and signals**
 
 Just various short scripts to Paint Ida pro With PyQt Like signals and events.
+
 Then it can always be converted to plugins.
+
+Just run via script menu or run in ida pro editor
 
 Your Welcome to submit your own.
