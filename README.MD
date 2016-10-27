@@ -9,3 +9,5 @@ Then it can always be converted to plugins.
 Just run via script menu or run in ida pro editor
 
 Your Welcome to submit your own.
+
+Says in comment in files what they do.
